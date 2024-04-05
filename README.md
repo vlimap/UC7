@@ -96,4 +96,4 @@ Este curso tem como objetivo capacitar os alunos para o desenvolvimento de aplic
 ## Considerações Finais
 
 Este curso visa desenvolver não apenas as habilidades técnicas necessárias para o desenvolvimento de aplicações web, mas também competências comportamentais como responsabilidade, cordialidade, proatividade e colaboração.
- 
+
