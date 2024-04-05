@@ -4,6 +4,7 @@
 
 - Compreender a estrutura básica de uma página HTML.
 - Aprender a utilizar as principais tags HTML para criar conteúdo web.
+- Conhecer as tags para criação de formulários e tabelas em HTML.
 
 ## Conteúdo Programático
 
@@ -34,11 +35,34 @@
   - `<ol>` para listas ordenadas.
   - `<li>` para itens de lista.
 
+### 3. Formulários
+
+- **Estrutura básica de um formulário:**
+  - `<form action="..." method="...">` para definir o formulário.
+- **Elementos de entrada:**
+  - `<input type="text">` para campos de texto.
+  - `<input type="password">` para campos de senha.
+  - `<input type="submit">` para botões de envio.
+- **Outros elementos:**
+  - `<textarea>` para áreas de texto.
+  - `<select>` e `<option>` para listas suspensas.
+  - `<label>` para rotular elementos de formulário.
+
+### 4. Tabelas
+
+- **Estrutura básica de uma tabela:**
+  - `<table>` para definir a tabela.
+  - `<tr>` para linhas da tabela.
+  - `<th>` para células de cabeçalho.
+  - `<td>` para células de dados.
+
 ## Atividades Práticas
 
 - Criar uma página HTML simples com a estrutura básica.
 - Inserir diferentes tipos de conteúdo usando as tags aprendidas.
 - Praticar a criação de links e a inserção de imagens.
+- Criar um formulário simples com campos de texto, senha e um botão de envio.
+- Construir uma tabela básica com cabeçalhos e dados.
 
 ## Recursos Adicionais
 
@@ -50,3 +74,4 @@
 
 - Verificação da capacidade de criar uma página HTML bem estruturada.
 - Avaliação da utilização correta das tags HTML para diferentes tipos de conteúdo.
+- Capacidade de criar formulários e tabelas em HTML.
