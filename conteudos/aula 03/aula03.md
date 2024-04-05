@@ -1,51 +1,53 @@
-# Aulas 05, 06 e 07: CSS Básico
+# Aula 03: HTML Básico - Parte 2
 
-## Objetivos das Aulas
+## Objetivos da Aula
 
-- Aprender a estilizar páginas HTML usando CSS.
-- Conhecer os principais seletores, propriedades e valores em CSS.
-- Introdução ao framework Bootstrap para desenvolvimento de interfaces responsivas.
+- Aprofundar o conhecimento sobre tags HTML para formatação de texto.
+- Aprender a utilizar listas e tabelas em HTML.
 
 ## Conteúdo Programático
 
-### 1. Estilização de Páginas HTML com CSS
+### 1. Formatação de Texto
 
-- Introdução ao CSS: o que é e para que serve.
-- Como vincular um arquivo CSS a um documento HTML.
-- Sintaxe básica do CSS: seletores, propriedades e valores.
+- **Tags de formatação de texto:**
+  - `<strong>` e `<b>` para texto em negrito.
+  - `<em>` e `<i>` para texto em itálico.
+  - `<u>` para texto sublinhado.
+  - `<br>` para quebra de linha.
+  - `<hr>` para inserir uma linha horizontal.
 
-### 2. Seletores, Propriedades e Valores
+### 2. Listas em HTML
 
-- **Seletores:**
-  - Seletores de tipo, classe e ID.
-  - Seletores de atributo, pseudo-classes e pseudo-elementos.
-- **Propriedades e Valores:**
-  - Propriedades de texto: `color`, `font-family`, `font-size`, `text-align`.
-  - Propriedades de layout: `margin`, `padding`, `border`, `width`, `height`.
-  - Propriedades de posicionamento: `position`, `top`, `right`, `bottom`, `left`.
-  - Unidades de medida em CSS: pixels, ems, porcentagem.
+- **Listas não ordenadas:**
+  - `<ul>` para definir a lista.
+  - `<li>` para definir cada item da lista.
+- **Listas ordenadas:**
+  - `<ol>` para definir a lista.
+  - `<li>` para definir cada item da lista.
 
-### 3. Introdução ao Bootstrap
+### 3. Tabelas em HTML
 
-- O que é Bootstrap e como ele facilita o desenvolvimento web.
-- Como adicionar Bootstrap a um projeto HTML.
-- Utilização de componentes do Bootstrap: botões, cartões, navegação, formulários.
-- Layout responsivo com o sistema de grid do Bootstrap.
+- Estrutura básica de uma tabela:
+  - `<table>` para definir a tabela.
+  - `<tr>` para definir uma linha.
+  - `<th>` para definir uma célula de cabeçalho.
+  - `<td>` para definir uma célula de dados.
 
 ## Atividades Práticas
 
-- Criar uma página HTML e aplicar estilos básicos usando CSS.
-- Praticar o uso de diferentes seletores e propriedades CSS.
-- Adicionar Bootstrap ao projeto e explorar alguns de seus componentes.
+- Criar uma página HTML com diferentes formatos de texto.
+- Inserir listas não ordenadas e ordenadas na página.
+- Construir uma tabela simples com cabeçalhos e dados.
 
 ## Recursos Adicionais
 
-- [Guia de CSS da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Documentação oficial do Bootstrap](https://getbootstrap.com/docs/)
-- [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+- [Guia de HTML da MDN - Text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#text_content)
+- [Guia de HTML da MDN - Listas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#list_content)
+- [Guia de HTML da MDN - Tabelas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#table_content)
+- [W3Schools HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+- [W3Schools HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 
 ## Avaliação
 
-- Capacidade de aplicar estilos CSS de forma eficaz a um documento HTML.
-- Compreensão dos conceitos básicos de seletores, propriedades e valores em CSS.
-- Habilidade em utilizar componentes do Bootstrap para criar interfaces responsivas.
+- Capacidade de aplicar formatação de texto usando tags HTML.
+- Habilidade em criar listas e tabelas com a sintaxe correta.

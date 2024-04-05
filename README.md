@@ -29,7 +29,7 @@ Este curso tem como objetivo capacitar os alunos para o desenvolvimento de aplic
     - Instalar o mssql:
         - npm i mssql
 
-### Aula 08 e 09: Introdução ao React
+### Aula 09: Introdução ao React
 - Conceitos básicos do React
 - Componentes, JSX, Props
 
