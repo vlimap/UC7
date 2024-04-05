@@ -13,16 +13,16 @@
 - Definição de desenvolvimento web.
 - Frontend vs. Backend: uma breve explicação.
 - Exemplos de aplicações web e sua relevância.
-    - Sites Institucionais: Páginas estáticas que fornecem informações sobre empresas, organizações ou indivíduos
-    - Blogs: Plataformas para publicação de artigos, notícias e conteúdos variados, muitas vezes com recursos para comentários e interação com os leitores.
-    - Lojas Virtuais (E-commerce): Plataformas para venda de produtos ou serviços online, com recursos para gestão de estoque, carrinho de compras e pagamentos.
-    - Portais de Notícias: Sites que agregam e apresentam notícias de diversas fontes, organizadas por categorias ou temas.
-    - Redes Sociais: Plataformas para interação social entre usuários, que podem compartilhar conteúdos, fotos, vídeos e mensagens.
-    - Sistemas de Gerenciamento de Conteúdo (CMS): Ferramentas que permitem a criação, edição e publicação de conteúdo digital de forma facilitada, sem a necessidade de conhecimento técnico avançado.
-    - Aplicações de uma única página (SPA - Single Page Applications): Aplicações web que carregam uma única página HTML e atualizam dinamicamente o conteúdo conforme o usuário interage com a aplicação, proporcionando uma experiência mais fluida e semelhante a um aplicativo de desktop.
-    - Sistemas de Informação: Aplicações web que gerenciam e processam dados para diferentes finalidades, como sistemas de gerenciamento de recursos humanos, sistemas financeiros, sistemas de inventário, entre outros.
-    - Plataformas de Ensino à Distância (EAD): Soluções para educação online, incluindo cursos, treinamentos, aulas ao vivo e avaliações.
-    - Aplicativos Progressivos para Web (PWA - Progressive Web Apps): Aplicações web que oferecem uma experiência semelhante a aplicativos nativos, com recursos como funcionamento offline, notificações push e acesso rápido a partir da tela inicial do dispositivo.
+    - **Sites Institucionais:** Páginas estáticas que fornecem informações sobre empresas, organizações ou indivíduos
+    - **Blogs:** Plataformas para publicação de artigos, notícias e conteúdos variados, muitas vezes com recursos para comentários e interação com os leitores.
+    - **Lojas Virtuais (E-commerce):** Plataformas para venda de produtos ou serviços online, com recursos para gestão de estoque, carrinho de compras e pagamentos.
+    - **Portais de Notícias:** Sites que agregam e apresentam notícias de diversas fontes, organizadas por categorias ou temas.
+    - **Redes Sociais:** Plataformas para interação social entre usuários, que podem compartilhar conteúdos, fotos, vídeos e mensagens.
+    - **Sistemas de Gerenciamento de Conteúdo (CMS):** Ferramentas que permitem a criação, edição e publicação de conteúdo digital de forma facilitada, sem a necessidade de conhecimento técnico avançado.
+    - **Aplicações de uma única página (SPA - Single Page Applications):** Aplicações web que carregam uma única página HTML e atualizam dinamicamente o conteúdo conforme o usuário interage com a aplicação, proporcionando uma experiência mais fluida e semelhante a um aplicativo de desktop.
+    - **Sistemas de Informação:** Aplicações web que gerenciam e processam dados para diferentes finalidades, como sistemas de gerenciamento de recursos humanos, sistemas financeiros, sistemas de inventário, entre outros.
+    - **Plataformas de Ensino à Distância (EAD):** Soluções para educação online, incluindo cursos, treinamentos, aulas ao vivo e avaliações.
+    - **Aplicativos Progressivos para Web (PWA - Progressive Web Apps):** Aplicações web que oferecem uma experiência semelhante a aplicativos nativos, com recursos como funcionamento offline, notificações push e acesso rápido a partir da tela inicial do dispositivo.
 
 ### 2. Apresentação das Tecnologias
 
